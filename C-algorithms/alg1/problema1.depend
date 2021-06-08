@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1590079186 source:c:\users\bety\desktop\problema1\sarcini.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sarcini.h"
+
+1590080884 c:\users\bety\desktop\problema1\sarcini.h
+
+1590144296 source:c:\users\bety\desktop\problema1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sarcini.h"
+
+1590144296 source:c:\users\bety\desktop\programare\problema1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sarcini.h"
+
+1590080884 c:\users\bety\desktop\programare\problema1\sarcini.h
+
+1590079186 source:c:\users\bety\desktop\programare\problema1\sarcini.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sarcini.h"
+

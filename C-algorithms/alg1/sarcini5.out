@@ -1,0 +1,16 @@
+nr procesoarelor este 14
+nr sarcinilor de lucru este 8
+d[1]= 30
+d[2]= 81
+d[3]= 92
+d[4]= 75
+d[5]= 26
+d[6]= 94
+d[7]= 58
+d[8]= 22
+22 26 30 58 75 81 92 94 
+x[1] = 48
+x[2] = 88
+x[3] = 156
+x[4] = 186
+S2= 342

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1590141194 source:c:\users\bety\desktop\problema1alg2\procesoare.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"procesoare.h"
+
+1590146589 source:c:\users\bety\desktop\problema1alg2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"procesoare.h"
+
+1590143770 c:\users\bety\desktop\problema1alg2\procesoare.h
+
+1590152613 source:c:\users\bety\desktop\programare\problema1alg2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"procesoare.h"
+
+1590143770 c:\users\bety\desktop\programare\problema1alg2\procesoare.h
+
+1590166048 source:c:\users\bety\desktop\programare\problema1alg2\procesoare1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"procesoare1.h"
+
+1590151099 c:\users\bety\desktop\programare\problema1alg2\procesoare1.h
+
